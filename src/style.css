@@ -1,10 +1,10 @@
 @import './styles/stars.css';
 
-.html {
+html {
   margin: 0;
 }
 
-.body {
+body {
   margin: 0;
 }
 
