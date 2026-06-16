@@ -1,6 +1,6 @@
 .stars {
   display: flex;
-  padding-bottom: 4px;
+  align-items: center;
 }
 
 .stars__star {
